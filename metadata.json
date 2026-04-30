@@ -1,0 +1,6 @@
+{
+  "name": "CivicLens",
+  "description": "A crowdsourced platform to report and track broken or missing public amenities, closing the gap between official maps and ground truth.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
